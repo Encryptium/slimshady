@@ -1,0 +1,17 @@
+[project]
+name = "shade-atl"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+  "fastapi>=0.115,<1", "uvicorn>=0.34,<1", "httpx>=0.28,<1",
+  "shapely>=2.1,<3", "numpy>=2.2,<3", "pyproj>=3.7,<4",
+  "networkx>=3.4,<4", "rasterio>=1.4,<2", "pvlib>=0.13,<1",
+  "scipy>=1.15,<2", "pillow>=11,<13", "laspy[lazrs]>=2.6,<3"
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

@@ -1,0 +1,18 @@
+[role="button"], [role="radio"] { transition: background-color 160ms ease, border-color 160ms ease, box-shadow 160ms ease, opacity 160ms ease; }
+[role="button"]:hover, [role="radio"]:hover { filter: brightness(.98); }
+[role="button"]:focus-visible, [role="radio"]:focus-visible, input:focus-visible { outline: 2px solid #74985f !important; outline-offset: 3px; }
+[role="radio"][aria-checked="true"] { box-shadow: 0 3px 14px rgba(49,93,67,.09); }
+* { scrollbar-width: thin; scrollbar-color: #cbd5c3 transparent; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; scroll-behavior: auto !important; } }
+
+/* A pair of glass surfaces over the map, with solid fallbacks on native. */
+#planner-panel, #directions-panel {
+  background: rgba(250, 250, 241, .86);
+  -webkit-backdrop-filter: blur(24px) saturate(135%);
+  backdrop-filter: blur(24px) saturate(135%);
+  border: 1px solid rgba(255, 255, 255, .8);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.95), 0 12px 38px rgba(30,49,25,.12);
+}
+#app-header { background: #f2f0e5; border-bottom-color: #dcded0; }
+@supports not (backdrop-filter: blur(1px)) { #planner-panel, #directions-panel { background: #f8f9ef; } }
+@media (prefers-reduced-transparency: reduce) { #planner-panel, #directions-panel { background: #f8f9ef; backdrop-filter: none; -webkit-backdrop-filter: none; } }

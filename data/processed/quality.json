@@ -1,0 +1,32 @@
+{
+  "release": "0db26d508918",
+  "built_at": "2026-09-26T23:23:42.335547+00:00",
+  "osm_timestamps": [
+    "2026-07-24T11:04:51Z",
+    "2026-09-26T23:21:35Z",
+    "2026-09-26T23:21:35Z",
+    "2026-09-26T23:21:35Z"
+  ],
+  "node_count": 111377,
+  "edge_count": 129601,
+  "sample_count": 1688568,
+  "building_count": 142485,
+  "osm_height_count": 278,
+  "place_count": 6345,
+  "components": 3157,
+  "largest_component_nodes": 88000,
+  "mapped_path_edges": 67443,
+  "canopy_resolution_m": [
+    0.9999694135176885,
+    0.9999891384778281
+  ],
+  "canopy_year": 2023,
+  "canopy_class": 1,
+  "canopy_interpretation": "Mapped crown cover, not a measured sunlight or seasonal shadow observation",
+  "warnings": [
+    "Street-centerline edges do not establish exact sidewalk position.",
+    "OSM access and crossings have not been field surveyed by this project.",
+    "2023 canopy may differ from current trees.",
+    "Zero pixels represent absence from the canopy mask inside the municipal study boundary; outside coverage is excluded."
+  ]
+}

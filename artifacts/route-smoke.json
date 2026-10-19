@@ -1,0 +1,1309 @@
+{
+  "routes": [
+    {
+      "distanceMeters": 895.3,
+      "durationSeconds": 763.7,
+      "uncoveredSeconds": 532.8,
+      "coverFraction": 0.332,
+      "treeCoverFraction": 0.335,
+      "approximateGeometryFraction": 0.095,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.3961042,
+            33.7748565
+          ],
+          [
+            -84.3961053,
+            33.7752097
+          ],
+          [
+            -84.3959975,
+            33.7752077
+          ],
+          [
+            -84.3958747,
+            33.7752272
+          ],
+          [
+            -84.3957244,
+            33.775268099999984
+          ],
+          [
+            -84.39563010000002,
+            33.77529690000001
+          ],
+          [
+            -84.3956545,
+            33.775348599999994
+          ],
+          [
+            -84.3955264,
+            33.7753897
+          ],
+          [
+            -84.3952151,
+            33.7755295
+          ],
+          [
+            -84.3950612,
+            33.77562270000001
+          ],
+          [
+            -84.3949499,
+            33.7756885
+          ],
+          [
+            -84.3947359,
+            33.77579989999999
+          ],
+          [
+            -84.3945927,
+            33.7758628
+          ],
+          [
+            -84.39446670000001,
+            33.7759058
+          ],
+          [
+            -84.3942959,
+            33.7759495
+          ],
+          [
+            -84.3940893,
+            33.775989599999996
+          ],
+          [
+            -84.3938967,
+            33.77599920000001
+          ],
+          [
+            -84.3937453,
+            33.775995099999996
+          ],
+          [
+            -84.3937384,
+            33.7760378
+          ],
+          [
+            -84.393732,
+            33.7761489
+          ],
+          [
+            -84.3937291,
+            33.7763223
+          ],
+          [
+            -84.3937324,
+            33.7764508
+          ],
+          [
+            -84.393732,
+            33.776666
+          ],
+          [
+            -84.3937239,
+            33.77684949999999
+          ],
+          [
+            -84.3936361,
+            33.7768458
+          ],
+          [
+            -84.3935633,
+            33.77684399999999
+          ],
+          [
+            -84.3925258,
+            33.7768252
+          ],
+          [
+            -84.39219100000001,
+            33.7768248
+          ],
+          [
+            -84.3921018,
+            33.776820699999995
+          ],
+          [
+            -84.3920247,
+            33.77681930000001
+          ],
+          [
+            -84.3920132,
+            33.77680939999999
+          ],
+          [
+            -84.3919861,
+            33.7768128
+          ],
+          [
+            -84.3918954,
+            33.77681170000001
+          ],
+          [
+            -84.3918497,
+            33.77679830000001
+          ],
+          [
+            -84.3916966,
+            33.7767966
+          ],
+          [
+            -84.3916302,
+            33.77681559999999
+          ],
+          [
+            -84.3915774,
+            33.77681690000001
+          ],
+          [
+            -84.3913765,
+            33.77680600000001
+          ],
+          [
+            -84.391282,
+            33.7767884
+          ],
+          [
+            -84.3904946,
+            33.7767743
+          ],
+          [
+            -84.3904366,
+            33.77677879999999
+          ],
+          [
+            -84.3903755,
+            33.7767806
+          ],
+          [
+            -84.3902769,
+            33.776783400000014
+          ],
+          [
+            -84.3901698,
+            33.7767792
+          ],
+          [
+            -84.3897366,
+            33.7767743
+          ],
+          [
+            -84.3889117,
+            33.7767528
+          ],
+          [
+            -84.3887943,
+            33.77674799999999
+          ],
+          [
+            -84.3887026,
+            33.77674429999999
+          ],
+          [
+            -84.3886787,
+            33.776737
+          ],
+          [
+            -84.38868063183894,
+            33.77632632606064
+          ]
+        ]
+      },
+      "segments": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3961042,
+                  33.7748565
+                ],
+                [
+                  -84.3961053,
+                  33.7752097
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 112738,
+              "osmWayId": 1292812512,
+              "name": "Local street",
+              "length": 39.2,
+              "seconds": 30.1,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "street_centerline",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 0.0
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3961053,
+                  33.7752097
+                ],
+                [
+                  -84.3959975,
+                  33.7752077
+                ],
+                [
+                  -84.3958747,
+                  33.7752272
+                ],
+                [
+                  -84.3957244,
+                  33.775268099999984
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 93705,
+              "osmWayId": 367446199,
+              "name": "Fourth Street Northwest",
+              "length": 36.2,
+              "seconds": 27.9,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "street_centerline",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 30.1
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3957244,
+                  33.775268099999984
+                ],
+                [
+                  -84.39563010000002,
+                  33.77529690000001
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 93706,
+              "osmWayId": 367446199,
+              "name": "Fourth Street Northwest",
+              "length": 9.3,
+              "seconds": 7.2,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "street_centerline",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 58.0
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.39563010000002,
+                  33.77529690000001
+                ],
+                [
+                  -84.3956545,
+                  33.775348599999994
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 107124,
+              "osmWayId": 977893287,
+              "name": "Walking path",
+              "length": 6.2,
+              "seconds": 4.7,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 65.2
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3956545,
+                  33.775348599999994
+                ],
+                [
+                  -84.3955264,
+                  33.7753897
+                ],
+                [
+                  -84.3952151,
+                  33.7755295
+                ],
+                [
+                  -84.3950612,
+                  33.77562270000001
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95506,
+              "osmWayId": 560936937,
+              "name": "Walking path",
+              "length": 63.1,
+              "seconds": 48.5,
+              "cover": 0.409,
+              "treeCover": 0.409,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 69.9
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3950612,
+                  33.77562270000001
+                ],
+                [
+                  -84.3949499,
+                  33.7756885
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95505,
+              "osmWayId": 560936937,
+              "name": "Walking path",
+              "length": 12.6,
+              "seconds": 9.7,
+              "cover": 0.2,
+              "treeCover": 0.2,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 118.4
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3949499,
+                  33.7756885
+                ],
+                [
+                  -84.3947359,
+                  33.77579989999999
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95504,
+              "osmWayId": 560936937,
+              "name": "Walking path",
+              "length": 23.4,
+              "seconds": 18.0,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 128.1
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3947359,
+                  33.77579989999999
+                ],
+                [
+                  -84.3945927,
+                  33.7758628
+                ],
+                [
+                  -84.39446670000001,
+                  33.7759058
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95503,
+              "osmWayId": 560936937,
+              "name": "Walking path",
+              "length": 27.6,
+              "seconds": 21.2,
+              "cover": 0.1,
+              "treeCover": 0.1,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 146.1
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.39446670000001,
+                  33.7759058
+                ],
+                [
+                  -84.3942959,
+                  33.7759495
+                ],
+                [
+                  -84.3940893,
+                  33.775989599999996
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95502,
+              "osmWayId": 560936937,
+              "name": "Walking path",
+              "length": 36.2,
+              "seconds": 27.8,
+              "cover": 0.769,
+              "treeCover": 0.769,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 167.4
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3940893,
+                  33.775989599999996
+                ],
+                [
+                  -84.3938967,
+                  33.77599920000001
+                ],
+                [
+                  -84.3937453,
+                  33.775995099999996
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95501,
+              "osmWayId": 560936937,
+              "name": "Walking path",
+              "length": 31.9,
+              "seconds": 24.5,
+              "cover": 0.455,
+              "treeCover": 0.455,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 195.2
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3937453,
+                  33.775995099999996
+                ],
+                [
+                  -84.3937384,
+                  33.7760378
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95500,
+              "osmWayId": 560936937,
+              "name": "Walking path",
+              "length": 4.8,
+              "seconds": 3.7,
+              "cover": 1.0,
+              "treeCover": 1.0,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 219.8
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3937384,
+                  33.7760378
+                ],
+                [
+                  -84.393732,
+                  33.7761489
+                ],
+                [
+                  -84.3937291,
+                  33.7763223
+                ],
+                [
+                  -84.3937324,
+                  33.7764508
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95499,
+              "osmWayId": 560936937,
+              "name": "Walking path",
+              "length": 45.8,
+              "seconds": 35.3,
+              "cover": 0.938,
+              "treeCover": 0.938,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 223.4
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3937324,
+                  33.7764508
+                ],
+                [
+                  -84.393732,
+                  33.776666
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95498,
+              "osmWayId": 560936937,
+              "name": "Walking path",
+              "length": 23.9,
+              "seconds": 18.4,
+              "cover": 0.125,
+              "treeCover": 0.125,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 258.7
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.393732,
+                  33.776666
+                ],
+                [
+                  -84.3937239,
+                  33.77684949999999
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95497,
+              "osmWayId": 560936937,
+              "name": "Walking path",
+              "length": 20.4,
+              "seconds": 15.7,
+              "cover": 0.143,
+              "treeCover": 0.143,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 277.1
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3937239,
+                  33.77684949999999
+                ],
+                [
+                  -84.3936361,
+                  33.7768458
+                ],
+                [
+                  -84.3935633,
+                  33.77684399999999
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95495,
+              "osmWayId": 560936936,
+              "name": "Crosswalk",
+              "length": 14.9,
+              "seconds": 26.5,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "mapped_path",
+              "crossing": true,
+              "steps": false,
+              "startSeconds": 292.7
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3935633,
+                  33.77684399999999
+                ],
+                [
+                  -84.3925258,
+                  33.7768252
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95548,
+              "osmWayId": 560936944,
+              "name": "Walking path",
+              "length": 96.2,
+              "seconds": 74.0,
+              "cover": 0.879,
+              "treeCover": 0.879,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 319.2
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3925258,
+                  33.7768252
+                ],
+                [
+                  -84.39219100000001,
+                  33.7768248
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95547,
+              "osmWayId": 560936944,
+              "name": "Walking path",
+              "length": 31.0,
+              "seconds": 23.9,
+              "cover": 0.909,
+              "treeCover": 0.909,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 393.2
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.39219100000001,
+                  33.7768248
+                ],
+                [
+                  -84.3921018,
+                  33.776820699999995
+                ],
+                [
+                  -84.3920247,
+                  33.77681930000001
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95640,
+              "osmWayId": 560944348,
+              "name": "Crosswalk",
+              "length": 15.4,
+              "seconds": 26.9,
+              "cover": 0.167,
+              "treeCover": 0.167,
+              "geometryQuality": "mapped_path",
+              "crossing": true,
+              "steps": false,
+              "startSeconds": 417.0
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3920247,
+                  33.77681930000001
+                ],
+                [
+                  -84.3920132,
+                  33.77680939999999
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95642,
+              "osmWayId": 560944365,
+              "name": "Walking path",
+              "length": 1.5,
+              "seconds": 1.2,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 443.9
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3920132,
+                  33.77680939999999
+                ],
+                [
+                  -84.3919861,
+                  33.7768128
+                ],
+                [
+                  -84.3918954,
+                  33.77681170000001
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95614,
+              "osmWayId": 560944327,
+              "name": "Walking path",
+              "length": 10.9,
+              "seconds": 8.4,
+              "cover": 0.5,
+              "treeCover": 0.5,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 445.1
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3918954,
+                  33.77681170000001
+                ],
+                [
+                  -84.3918497,
+                  33.77679830000001
+                ],
+                [
+                  -84.3916966,
+                  33.7767966
+                ],
+                [
+                  -84.3916302,
+                  33.77681559999999
+                ],
+                [
+                  -84.3915774,
+                  33.77681690000001
+                ],
+                [
+                  -84.3913765,
+                  33.77680600000001
+                ],
+                [
+                  -84.391282,
+                  33.7767884
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95613,
+              "osmWayId": 560944327,
+              "name": "Walking path",
+              "length": 57.7,
+              "seconds": 44.4,
+              "cover": 0.8,
+              "treeCover": 0.8,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 453.5
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.391282,
+                  33.7767884
+                ],
+                [
+                  -84.3904946,
+                  33.7767743
+                ],
+                [
+                  -84.3904366,
+                  33.77677879999999
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 95612,
+              "osmWayId": 560944327,
+              "name": "Walking path",
+              "length": 78.4,
+              "seconds": 60.3,
+              "cover": 0.037,
+              "treeCover": 0.037,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 497.9
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3904366,
+                  33.77677879999999
+                ],
+                [
+                  -84.3903755,
+                  33.7767806
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 105540,
+              "osmWayId": 871957552,
+              "name": "Crosswalk",
+              "length": 5.7,
+              "seconds": 19.4,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "mapped_path",
+              "crossing": true,
+              "steps": false,
+              "startSeconds": 558.1
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3903755,
+                  33.7767806
+                ],
+                [
+                  -84.3902769,
+                  33.776783400000014
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 105541,
+              "osmWayId": 871957552,
+              "name": "Crosswalk",
+              "length": 9.1,
+              "seconds": 22.0,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "mapped_path",
+              "crossing": true,
+              "steps": false,
+              "startSeconds": 577.5
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3902769,
+                  33.776783400000014
+                ],
+                [
+                  -84.3901698,
+                  33.7767792
+                ],
+                [
+                  -84.3897366,
+                  33.7767743
+                ],
+                [
+                  -84.3889117,
+                  33.7767528
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 105539,
+              "osmWayId": 871957551,
+              "name": "Walking path",
+              "length": 126.5,
+              "seconds": 97.3,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 599.5
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3889117,
+                  33.7767528
+                ],
+                [
+                  -84.3887943,
+                  33.77674799999999
+                ],
+                [
+                  -84.3887026,
+                  33.77674429999999
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 105548,
+              "osmWayId": 871957557,
+              "name": "Crosswalk",
+              "length": 19.4,
+              "seconds": 29.9,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "mapped_path",
+              "crossing": true,
+              "steps": false,
+              "startSeconds": 696.9
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3887026,
+                  33.77674429999999
+                ],
+                [
+                  -84.3886787,
+                  33.776737
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 105544,
+              "osmWayId": 871957555,
+              "name": "Walking path",
+              "length": 2.4,
+              "seconds": 1.8,
+              "cover": 0.0,
+              "treeCover": 0.0,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 726.8
+            }
+          },
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -84.3886787,
+                  33.776737
+                ],
+                [
+                  -84.38868063183894,
+                  33.77632632606064
+                ]
+              ]
+            },
+            "properties": {
+              "edgeId": 88881,
+              "osmWayId": 42792358,
+              "name": "Walking path",
+              "length": 45.6,
+              "seconds": 35.1,
+              "cover": 0.0,
+              "treeCover": 0.069,
+              "geometryQuality": "mapped_path",
+              "crossing": false,
+              "steps": false,
+              "startSeconds": 728.6
+            }
+          }
+        ]
+      },
+      "instructions": [
+        {
+          "text": "Continue on Local street",
+          "coordinate": [
+            -84.3961042,
+            33.7748565
+          ],
+          "atMeters": 0,
+          "seconds": 0.0
+        },
+        {
+          "text": "Continue on Fourth Street Northwest",
+          "coordinate": [
+            -84.3961053,
+            33.7752097
+          ],
+          "atMeters": 39.2,
+          "seconds": 30.1
+        },
+        {
+          "text": "Continue on Walking path",
+          "coordinate": [
+            -84.39563010000002,
+            33.77529690000001
+          ],
+          "atMeters": 84.7,
+          "seconds": 65.2
+        },
+        {
+          "text": "Use the mapped crossing on Crosswalk",
+          "coordinate": [
+            -84.3937239,
+            33.77684949999999
+          ],
+          "atMeters": 380.6,
+          "seconds": 292.7
+        },
+        {
+          "text": "Continue on Walking path",
+          "coordinate": [
+            -84.3935633,
+            33.77684399999999
+          ],
+          "atMeters": 395.5,
+          "seconds": 319.2
+        },
+        {
+          "text": "Use the mapped crossing on Crosswalk",
+          "coordinate": [
+            -84.39219100000001,
+            33.7768248
+          ],
+          "atMeters": 522.7,
+          "seconds": 417.0
+        },
+        {
+          "text": "Continue on Walking path",
+          "coordinate": [
+            -84.3920247,
+            33.77681930000001
+          ],
+          "atMeters": 538.1,
+          "seconds": 443.9
+        },
+        {
+          "text": "Use the mapped crossing on Crosswalk",
+          "coordinate": [
+            -84.3904366,
+            33.77677879999999
+          ],
+          "atMeters": 686.6,
+          "seconds": 558.1
+        },
+        {
+          "text": "Use the mapped crossing on Crosswalk",
+          "coordinate": [
+            -84.3903755,
+            33.7767806
+          ],
+          "atMeters": 692.3,
+          "seconds": 577.5
+        },
+        {
+          "text": "Continue on Walking path",
+          "coordinate": [
+            -84.3902769,
+            33.776783400000014
+          ],
+          "atMeters": 701.4,
+          "seconds": 599.5
+        },
+        {
+          "text": "Use the mapped crossing on Crosswalk",
+          "coordinate": [
+            -84.3889117,
+            33.7767528
+          ],
+          "atMeters": 827.9,
+          "seconds": 696.9
+        },
+        {
+          "text": "Continue on Walking path",
+          "coordinate": [
+            -84.3887026,
+            33.77674429999999
+          ],
+          "atMeters": 847.3,
+          "seconds": 726.8
+        },
+        {
+          "text": "Arrive at the mapped destination access point",
+          "coordinate": [
+            -84.38868063183894,
+            33.77632632606064
+          ],
+          "atMeters": 895.3,
+          "seconds": 763.7
+        }
+      ],
+      "edgeIds": [
+        112738,
+        93705,
+        93706,
+        107124,
+        95506,
+        95505,
+        95504,
+        95503,
+        95502,
+        95501,
+        95500,
+        95499,
+        95498,
+        95497,
+        95495,
+        95548,
+        95547,
+        95640,
+        95642,
+        95614,
+        95613,
+        95612,
+        105540,
+        105541,
+        105539,
+        105548,
+        105544,
+        88881
+      ],
+      "id": "fastest",
+      "kind": "fastest",
+      "badges": [
+        "fastest",
+        "recommended",
+        "shade"
+      ],
+      "extraSeconds": 0.0,
+      "savedUncoveredSeconds": 0.0
+    }
+  ],
+  "departureTime": "2026-09-26T13:00:00-04:00",
+  "timeZone": "America/New_York",
+  "release": "0db26d508918",
+  "model": "2023 mapped crown cover + geometric building shadows",
+  "approximateSearch": true,
+  "candidateCount": 1,
+  "night": false,
+  "lowSun": false,
+  "sunElevation": 54.2,
+  "warnings": [
+    "Tree cover uses the original 2023 crown map; tree shadow movement and leaf loss are not yet modeled.",
+    "Building shadows use available measured or OSM heights; missing heights are not fabricated.",
+    "Access and crossings come from OSM and have not been field-verified by this project.",
+    "Part of this route follows a street centerline: exact sidewalk shade is uncertain. Follow actual sidewalks and legal crossings.",
+    "Pins were snapped to mapped paths. The approach between each pin and path is not verified or included in guidance."
+  ],
+  "snapped": {
+    "origin": {
+      "coordinate": [
+        -84.3961042,
+        33.7748565
+      ],
+      "distanceMeters": 32.8
+    },
+    "destination": {
+      "coordinate": [
+        -84.38868063183894,
+        33.77632632606064
+      ],
+      "distanceMeters": 19.1
+    }
+  },
+  "processingMs": 934
+}

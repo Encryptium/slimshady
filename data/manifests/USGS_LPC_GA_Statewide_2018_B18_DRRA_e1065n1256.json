@@ -1,0 +1,10 @@
+{
+  "source": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/GA_Statewide_2018_B18_DRRA/GA_Statewide_B2_2018/LAZ/USGS_LPC_GA_Statewide_2018_B18_DRRA_e1065n1256.laz",
+  "retrieved_at": "2026-09-26T02:44:51.057840+00:00",
+  "file": "data\\raw\\lidar\\USGS_LPC_GA_Statewide_2018_B18_DRRA_e1065n1256.laz",
+  "bytes": 18587971,
+  "sha256": "9db6f4e1f0cd977652f8e20360f28fce446d39731272ad8a683f48786e24e814",
+  "publisher": "USGS 3DEP",
+  "acquisition_year": 2018,
+  "license": "Public domain"
+}

@@ -1,0 +1,11 @@
+{
+  "source": "https://overpass-api.de/api/interpreter",
+  "retrieved_at": "2026-09-26T23:23:01.544207+00:00",
+  "file": "data/raw/osm-1-1.json",
+  "bytes": 82676447,
+  "sha256": "00608bacd93ac0903f9c487d6f6aac99b324444c4801344778d39b5f2f702ac9",
+  "query": "[out:json][timeout:180];(way[highway](33.769999999999996,-84.42,33.9,-84.28);way[building](33.769999999999996,-84.42,33.9,-84.28);node[name](33.769999999999996,-84.42,33.9,-84.28););out body;>;out skel qt;",
+  "license": "ODbL 1.0",
+  "attribution": "\u00a9 OpenStreetMap contributors",
+  "timestamp": "2026-09-26T23:21:35Z"
+}

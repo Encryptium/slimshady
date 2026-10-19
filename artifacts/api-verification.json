@@ -1,0 +1,35 @@
+{
+  "seconds": 0.99,
+  "origin": {
+    "id": "r3178622",
+    "name": "G. Wayne Clough Undergraduate Learning Commons",
+    "longitude": -84.3963748,
+    "latitude": 33.7746658,
+    "category": "building",
+    "source": "https://www.openstreetmap.org/relation/3178622",
+    "address": "266 Fourth St. NW, Atlanta, GA 30332"
+  },
+  "destination": {
+    "id": "w179047236",
+    "name": "Barnes & Noble Bookstore @ Georgia Tech",
+    "longitude": -84.3884745891364,
+    "latitude": 33.776325650000004,
+    "category": "retail",
+    "source": "https://www.openstreetmap.org/way/179047236",
+    "locationLabel": "Atlanta, GA"
+  },
+  "routes": [
+    {
+      "badges": [
+        "fastest",
+        "recommended",
+        "shade"
+      ],
+      "distanceMeters": 895.3,
+      "durationSeconds": 763.7,
+      "coverFraction": 0.332,
+      "uncoveredSeconds": 532.8,
+      "extraSeconds": 0.0
+    }
+  ]
+}

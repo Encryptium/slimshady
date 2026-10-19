@@ -1,0 +1,9 @@
+{
+  "source": "https://overpass.kumi.systems/api/interpreter",
+  "retrieved_at": "2026-09-26T23:30:04.406279+00:00",
+  "file": "data/raw/osm-named-areas.json",
+  "bytes": 1106083,
+  "sha256": "9c4be21bc448594f9033eb5b4ab7fd0f5d9af8d15f2bf3364c7f6a763484ae66",
+  "query": "[out:json][timeout:90];(nwr[\"name\"][\"leisure\"](33.64,-84.56,33.90,-84.28);rel[\"name\"][\"building\"](33.64,-84.56,33.90,-84.28);way[\"name\"][\"amenity\"](33.64,-84.56,33.90,-84.28););out center tags;",
+  "license": "ODbL 1.0 / OpenStreetMap contributors"
+}

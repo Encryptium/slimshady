@@ -1,0 +1,9 @@
+{
+  "source": "https://services2.arcgis.com/I9cUOJUZvdGAJncI/arcgis/rest/services/Canopy_Data_2023_WFL1/FeatureServer/2/query?f=geojson&where=1%3D1&outFields=%2A&outSR=4326",
+  "retrieved_at": "2026-09-26T23:21:35.967889+00:00",
+  "file": "data/raw/boundary.geojson",
+  "bytes": 167700,
+  "sha256": "3ca0d21d7c666036d4fcb4aa1d95be4e34d741444c6b182aa0e67cb168450513",
+  "publisher": "City of Atlanta / Georgia Tech",
+  "vintage": 2024
+}
